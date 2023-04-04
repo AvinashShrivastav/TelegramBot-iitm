@@ -23,7 +23,7 @@ The Telegram bot for Statistics Problems Solver is specifically designed to solv
 To use this bot, you need to follow these steps:
 
 1. Install the Telegram app on your device.
-2. Search for the bot by its username @StatisticsProblemsSolverBot.
+2. Search for the bot by its username @Stats2iitmbot.
 3. Send your question in text or image format to the bot.
 4. The bot will analyze the question and solve it using the specified function.
 5. The bot will reply back to you with the answer.
